@@ -1,0 +1,3 @@
+[submodule "submodulos/UFC-Web-Scraping"]
+	path = submodulos/UFC-Web-Scraping
+	url = https://github.com/remypereira99/UFC-Web-Scraping/
